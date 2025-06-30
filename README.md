@@ -109,4 +109,4 @@ Hatalar, öneriler ve geliştirmeler için PR açmaktan çekinme.
 
 ## Lisans
 
-MIT © [Kullanıcı Adın]
+MIT © [muhammederencennetkusu]
